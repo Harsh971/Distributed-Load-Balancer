@@ -173,7 +173,7 @@ def start_server():
         if not is_server_running(port):
             server_file, server_id = servers[key]
             # Start the server with both the server ID and the port.
-            process = subprocess.Popen(["python3", server_file, server_id, port])
+            process = subprocess.Popen(["python", server_file, server_id, port])
             server_processes[port] = process
             return jsonify({"message": f"Server on port {port} started successfully."})
         else:

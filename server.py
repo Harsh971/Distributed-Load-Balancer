@@ -106,7 +106,7 @@ async def main():
         sys.exit(1)
     server_id = sys.argv[1]
     port = int(sys.argv[2])
-    server = await asyncio.start_server(lambda r, w: handle_connection(r, w, server_id), "localhost", port)
+    server = await asyncio.start_server(lambda r, w: handle_connection(r, w, server_id), "0.0.0.0", port)
     print(f"Backend Server {server_id} listening on port {port}")
     async with server:
         await server.serve_forever()
