@@ -2,6 +2,17 @@
 
 Developed a distributed load balancer using a Flask web application integrated with Redis on WSL, facilitating dynamic task scheduling across multiple server controllers.
 
+---
+
+## 💻 Demo Video on YouTube
+
+- ▶️ **YouTube Walkthrough:**  
+  <br>
+  [![LoadBalancer Demo Video](https://img.youtube.com/vi/2o2EzDpwoio/0.jpg)](https://youtu.be/2o2EzDpwoio)  
+  *Click to watch me walk through each feature!*
+
+---
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -185,3 +196,18 @@ This project implements a distributed load balancer that dynamically schedules t
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
+
+## Feedback
+
+Your feedback is valuable! If you have suggestions for improving existing content or ideas for new additions, please open an issue or reach out to the repository maintainers. If you have any other feedbacks, you can reach out to us at harsh.thakkar0369@gmail.com
+
+
+## Connect with Me
+<p>
+
+ <a href="https://twitter.com/HarshThakkar971" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/vector-new-twitter-x-white-logo-black-background_744381-866.jpg" alt="HarshThakkar971" height="40" width="50" /></a>
+  &nbsp;&nbsp;
+  	<a href="https://linkedin.com/in/harsh-thakkar-7764bb1a4" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="harsh-thakkar-7764bb1a4" height="40" width="40" /></a>
+ 
+</p>
+
